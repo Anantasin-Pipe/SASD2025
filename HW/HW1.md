@@ -1,5 +1,6 @@
 <h1>จากคลิป What is software architecture (https://www.youtube.com/watch?v=BVMngYKJ4hk) ฟังตั้งแต่ต้นจนจบครับ</h1>
-## Overall:	
+
+## Overall:
 - Martin Fowler ได้บอกไว้ว่าการที่เราจะเข้าใจระบบหรือ Architecture ได้นั้นเราต้องรู้ก่อนว่าหัวหน้าของ Project นั้นให้ความสำคัญกับอะไรมากที่สุดหรือแม้แต้จะเป็น Project ส่วนตัวเราก็ควรจะรู้ว่าอะไรคือสิ่งที่สำคัญที่สุดและจำสิ่งนั้นไว้ให้ขึ้นใจเสมอเวลาที่เราต้อง Coding และ Martin Fowler ยังบอกว่าถ้าหากถามเขาว่า Architecture คืออะไรเขาจะให้ความหมายตาม Ralph นั้นก็คือทุกอย่างที่เป็นสิ่งสำคัญคือ Architecture เขายังพูดต่ออีกว่าหากว่าคุณได้ลองไปคุยกับ Developer ที่รับผิดชอบ Project ต่างๆเขาจะมีความรู้พื้นฐานเกี่ยวกับ Project ที่พวกเขารับผิดชอบ เช่น code ใน Project นั้นทำงานยังไง เป็นต้น นั้นแหละคือการอธิบาย Architecture ได้ดีที่สุด เพราะต่อให้ Project นั้นมี Diagram, Document, หรือแม้แต่ Architecture เขียนไว้มันก็ยังอธิบายได้ไม่ดีพอ ถ้าอยากให้ Software Project นั้นพัฒนาไปได้ไกลหัวหน้าทีมก็ควรที่จะ Share ความเข้าใจเกี่ยวกับ Project ให้คนในทีมสามารถเข้าใจหรือเห็นภาพเดียวกันได้นั้นถึงจะมีประสิทธิภาพมากที่สุด
 ## Summary:
 - Software Architecture นั้นคือทุกอย่างของ Project ที่สำคัญและหากต้องการคำอธิบายที่เข้าใจง่ายกว่านี้ Software Architecture คือการ share ความเข้าใจและสิ่งที่เปลี่ยนแปลงไปของ Project ให้คนในทีมสามารถเข้าใจได้อย่างถูกต้องและครบถ้วน
@@ -8,3 +9,5 @@
 - Design decisions: การตัดสินใจออกแบบระบบ
 - Economic impact: ผลกระทบทางธุรกิจจากการตัดสินใจด้านสถาปัตยกรรม
 - Evolving architecture: Architecture ที่เปลี่ยนตาม requirement
+<img width="1211" height="683" alt="image" src="https://github.com/user-attachments/assets/e8101b6e-efcc-441c-9584-538c94a0989f" />
+
